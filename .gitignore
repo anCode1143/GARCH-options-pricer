@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+
+# Virtual environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+outputs/
+
+# Data / outputs (don't commit downloaded market data or generated Excel files)
+*.xlsx
+*.csv
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
