@@ -2,3 +2,4 @@ numpy
 arch
 yfinance
 openpyxl
+requests
